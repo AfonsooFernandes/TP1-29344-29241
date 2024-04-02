@@ -1,0 +1,276 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.20f1 (61c2feb0970d) revision 6406910'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'pt' Physical Memory: 16163 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/E.I/2ÂºAno/2ÂºSemestre/TM/Exercicio 1/Exercicio 1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52436
+Successfully changed project path to: C:/E.I/2ÂºAno/2ÂºSemestre/TM/Exercicio 1/Exercicio 1
+C:/E.I/2ÂºAno/2ÂºSemestre/TM/Exercicio 1/Exercicio 1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [10952] Host "[IP] 172.28.192.1 [Port] 0 [Flags] 2 [Guid] 3822174362 [EditorId] 3822174362 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-26VIRJ1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [10952] Host "[IP] 172.28.192.1 [Port] 0 [Flags] 2 [Guid] 3822174362 [EditorId] 3822174362 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-26VIRJ1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 10.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.20f1 (61c2feb0970d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/E.I/2ÂºAno/2ÂºSemestre/TM/Exercicio 1/Exercicio 1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   31.0.15.5186
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56008
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.010943 seconds.
+- Loaded All Assemblies, in  0.409 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.294 seconds
+Domain Reload Profiling: 700ms
+	BeginReloadAssembly (122ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (167ms)
+		LoadAssemblies (119ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (165ms)
+			TypeCache.Refresh (163ms)
+				TypeCache.ScanAssembly (146ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (295ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (230ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (159ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.881 seconds
+Refreshing native plugins compatible for Editor in 3.56 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.593 seconds
+Domain Reload Profiling: 1471ms
+	BeginReloadAssembly (195ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (577ms)
+		LoadAssemblies (446ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (252ms)
+			TypeCache.Refresh (225ms)
+				TypeCache.ScanAssembly (206ms)
+			ScanForSourceGeneratedMonoScriptInfo (21ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (594ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (442ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (59ms)
+			ProcessInitializeOnLoadAttributes (339ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 6.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3095 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (29.7 KB). Loaded Objects now: 3560.
+Memory consumption went from 148.5 MB to 148.5 MB.
+Total: 5.006200 ms (FindLiveObjects: 0.485400 ms CreateObjectMapping: 0.190300 ms MarkObjects: 4.229400 ms  DeleteObjects: 0.100100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 26934.467920 seconds.
+  path: Assets/Materials/Obstacle.mat
+  artifactKey: Guid(a344e2f7fbb0892499e8ef7c503193a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Obstacle.mat using Guid(a344e2f7fbb0892499e8ef7c503193a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c609e7b8e1e8dfcd2077aed773f5e9e') in 0.133065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 132.300590 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(598b996d2411e6347a8fe175819d0bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(598b996d2411e6347a8fe175819d0bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce81aa86971f640525c177bb67cc648') in 0.001014 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 130.847515 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4fe85251aa2e89732c359432baa2c3') in 0.000587 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.797669 seconds.
+  path: Assets/Crash
+  artifactKey: Guid(f7ce3b2efeb3b7d4194b8b2bb9d3f713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crash using Guid(f7ce3b2efeb3b7d4194b8b2bb9d3f713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8f163ff0adbd8b0f2cfe56244bf6c9') in 0.000528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.793430 seconds.
+  path: Assets/Crash/Textures
+  artifactKey: Guid(d547d51d3563bc047b150ed338e22305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crash/Textures using Guid(d547d51d3563bc047b150ed338e22305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e6c1c31b17cb1c113856503f479447') in 0.000557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 27.844879 seconds.
+  path: Assets/Crash/Textures/CavityBakedColorMap,textures@!actors!Playable!Crash!CrashCloth_.png
+  artifactKey: Guid(01d4ba49698f2de458ec53330f422a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crash/Textures/CavityBakedColorMap,textures@!actors!Playable!Crash!CrashCloth_.png using Guid(01d4ba49698f2de458ec53330f422a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec8485a227f7404d5146a9cbbada3b81') in 0.040989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Crash/Textures/CavityBakedColorMap,textures@!actors!Playable!Crash!CrashFur_{C.png
+  artifactKey: Guid(fe0720375596d174392e737c898cc042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crash/Textures/CavityBakedColorMap,textures@!actors!Playable!Crash!CrashFur_{C.png using Guid(fe0720375596d174392e737c898cc042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec811d98f8a443aa1c0d3f7651ff52a0') in 0.030411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Crash/Textures/NormalMap,textures@!actors!Playable!Crash!CrashEyes_N`tga,111.png
+  artifactKey: Guid(1e863f7a4e70ce94192dd95066ad912a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crash/Textures/NormalMap,textures@!actors!Playable!Crash!CrashEyes_N`tga,111.png using Guid(1e863f7a4e70ce94192dd95066ad912a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '799ba3733010c63487edf9abb0ed946c') in 0.025258 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Crash/Textures/CavityBakedColorMap,textures@!{actors!Playable!Crash!CrashHair_.png
+  artifactKey: Guid(6cee903a992be734ab84753e8eee1788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crash/Textures/CavityBakedColorMap,textures@!{actors!Playable!Crash!CrashHair_.png using Guid(6cee903a992be734ab84753e8eee1788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e328929191585b93d02dd53128d92805') in 0.023831 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Crash/Textures/NormalMap,textures@!actors!Playable!Crash!CrashEyePupil_N`tga,111.png
+  artifactKey: Guid(f0a42a3853d76f845b9b7433955ac40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crash/Textures/NormalMap,textures@!actors!Playable!Crash!CrashEyePupil_N`tga,111.png using Guid(f0a42a3853d76f845b9b7433955ac40b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6eb87790be876713e3e8db90db0aa3') in 0.022835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Crash/Textures/CavityBakedColorMap,textures@!actors!Playable!Crash!CrashEyes_{.png
+  artifactKey: Guid(878376eec27c4b64f8466172da5c0189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Crash/Textures/CavityBakedColorMap,textures@!actors!Playable!Crash!CrashEyes_{.png using Guid(878376eec27c4b64f8466172da5c0189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05aa9c928bc9ffe45b8c3bd49836daa4') in 0.024092 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: A operação de E/S foi cancelada devido a uma saída do módulo ou a um pedido da aplicação.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
