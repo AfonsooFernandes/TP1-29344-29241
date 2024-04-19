@@ -59,14 +59,52 @@
     <UnityVersion>2022.3.20f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\afons\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\HP\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.1\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\PlayerCollisions.cs" />
-    <Compile Include="Assets\Script\playerscript.cs" />
+    <Compile Include="Assets\Scene Teleportation Kit\Scripts\teleport\Teleporter.cs" />
+    <Compile Include="Assets\Scene Teleportation Kit\Scripts\player\PlayerManager.cs" />
+    <Compile Include="Assets\Script\EndOfSceneScript.cs" />
+    <Compile Include="Assets\Scene Teleportation Kit\Scripts\teleport\PortTrigger.cs" />
+    <Compile Include="Assets\Script\SpiderScript.cs" />
+    <Compile Include="Assets\Script\CrashInventory.cs" />
+    <Compile Include="Assets\Script\EndGame.cs" />
+    <Compile Include="Assets\Low Poly Fruits\resources\fruits_tester.cs" />
+    <Compile Include="Assets\Script\Fruit.cs" />
+    <Compile Include="Assets\Scene Teleportation Kit\Scripts\player\PlayerCamera.cs" />
+    <Compile Include="Assets\Scene Teleportation Kit\Scripts\teleport\Teleportable.cs" />
+    <Compile Include="Assets\Scene Teleportation Kit\Scripts\player\PlayerMovement.cs" />
+    <Compile Include="Assets\Scene Teleportation Kit\Scripts\teleport\SpawnPoint.cs" />
     <Compile Include="Assets\Script\CamaraController.cs" />
+    <Compile Include="Assets\Script\Movimento.cs" />
+    <Compile Include="Assets\Scene Teleportation Kit\Scripts\player\PlayerController.cs" />
+    <Compile Include="Assets\Script\InventoryUI.cs" />
+    <Compile Include="Assets\Script\CrashScript.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
